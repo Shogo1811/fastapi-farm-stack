@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "/Users/shogonakagawa/10_Profile/10_Program_個人用プログラミング学習関連/プログラミング学習用/Udemy動画教材(全言語)/20230220_FastAPI+ReactによるフルスタックWeb開発/env_api/lib/python3.9/site-package",
+    "./fast_api"
+  ]
+}
